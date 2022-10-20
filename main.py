@@ -17,3 +17,6 @@ print("Changes fro linux vm1")
 print("push this from own branch")
 print("changes from loc !")
 print("eerwerwerwerwer!")
+
+def foo():
+    pass

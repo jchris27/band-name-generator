@@ -13,5 +13,6 @@ print("Congratulations! Your New Band Name is " + new_band_name + "!!!")
 #   https://replit.com/@appbrewery/band-name-generator-end
 
 print("Change from dev-jin/main")
-print("Changes fro linux vm1"
+print("Changes fro linux vm1")
 print("push this from own branch")
+print("changes from loc pc")

@@ -18,5 +18,7 @@ print("push this from own branch")
 print("changes from loc !")
 print("eerwerwerwerwer!")
 
-def foo():
-    a + b = x
+def foo(a, b):
+    a = 1
+    b = 2
+    return a + b

@@ -19,4 +19,4 @@ print("changes from loc !")
 print("eerwerwerwerwer!")
 
 def foo():
-    pass
+    a + b = x
